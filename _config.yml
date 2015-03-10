@@ -1,0 +1,39 @@
+# Site settings
+title:       dhruvkp
+email:       dhruvkumarr.patel51@gmail.com
+author:      Dhruv Patel
+description: "Data analytics, Machine learning, Open source et el."
+baseurl:     ""
+url:         "http://dhruvkp.com"
+
+# Google analytics
+google_analytics:
+
+# Optional features
+animated:           true
+show_related_posts: false
+show_post_footers:  false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: 
+
+# Social icons
+show_social_icons: true
+github_username: dhruvkp
+stackoverflow_id:
+twitter_username: dhruvkp
+google_plus_id:
+linkedin_username: dhruvkp
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Build settings
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     3
+sass:
+  compressed: true

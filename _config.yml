@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://dhruvkp.com"
 
 # Google analytics
-google_analytics:
+google_analytics:   UA-53387294-1 
 
 # Optional features
 animated:           false

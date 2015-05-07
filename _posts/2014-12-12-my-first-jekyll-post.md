@@ -6,4 +6,4 @@ summary: I am just trying to see if jekyll picks up md file written by me.
 categories: jekyll
 ---
 Hello world. How are you doin?
-I am just trying to see if jekyll picks up md file written by me. hello harshita, how are you doing? Why have you been feeling so sleepy? That is too bad.
+I am just trying to see if jekyll picks up md file written by me.

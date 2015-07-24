@@ -3,8 +3,8 @@ title:       dhruvkp
 email:       dhruvkumarr.patel51@gmail.com
 author:      Dhruv Patel
 description: "Data analytics, Machine learning, Open source et el."
-baseurl:     ""
-url:         "http://dhruvkp.com/blog"
+baseurl:     "/blog"
+url:         "http://dhruvkp.com/"
 
 # Google analytics
 google_analytics: UA-53387294-1

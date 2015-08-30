@@ -1,0 +1,15 @@
+Predicting movie ratings
+
+Summarizing reviews of Amazon items
+
+Face recognition on Phones- when there was no Android/IOS
+
+Personality prediction using Facebook user profiles
+
+Building more than normal adblocker using machine learning- BYOP
+
+Multilingual search engine for Indian Languages
+
+Developing for KDE org- presentation view mode for Digikam
+
+Hackathon duds
